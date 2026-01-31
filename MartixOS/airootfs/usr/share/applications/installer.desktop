@@ -1,9 +1,0 @@
-[Desktop Entry]
-Type=Application
-Name=Install MartixOS
-Comment=Install MartixOS using archinstall
-Exec=konsole -e sudo archinstall
-Icon=system-software-install
-Terminal=false
-Categories=System;
-
