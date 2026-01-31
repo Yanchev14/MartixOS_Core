@@ -11,6 +11,7 @@
 
 MartixOS is created with the goal to be:
 
+- It's minimal and it comes with KDE Plasma
 - Fully Wayland-based for modern display management  
 - Open-source under GPLv3, ensuring freedom and transparency  
 
@@ -21,4 +22,6 @@ MartixOS is created with the goal to be:
 ### 1. Testing in a Virtual Machine
 1. Download the ISO file
 2. Create a VM with at least 2GB RAM and 20GB disk  
-3. Boot the ISO and follow the installation instructions  
+3. Boot the ISO
+4. Search the Application "Install MartixOS" and you'll see an installer, called archinstall
+5. configure the system in archinstall and then install the system  
