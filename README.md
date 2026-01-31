@@ -28,6 +28,6 @@ MartixOS is created with the goal to be:
 ### 2. Building from Source
 1. Clone the repository:
 ```bash
-git clone <repo-url>
+git clone https://github.com/Yanchev14/MartixOS.git
 cd MartixOS
 
