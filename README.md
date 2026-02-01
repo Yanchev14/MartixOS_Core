@@ -55,7 +55,7 @@ MartixOS is created with the goal to be:
 ### 2. Tutorial
 1. run `sudo pacman -S archiso`
 2. Enter in your browser
-3. type https://github.com/Yanchev14/MartixOS
+3. type https://github.com/Yanchev14/MartixOS on the search bar
 4. in this site click Releases
 5. in Releases click on the newest version
 6. Install MartixOS.zip, which is the source code
