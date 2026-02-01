@@ -19,10 +19,29 @@ MartixOS is created with the goal to be:
 
 ## Installation / Testing
 
-### 1. Testing in a Virtual Machine
+### 1. Requirements
+1.  8GB Flash Drive
+2.  PC with Windows 10/11 or Linux system
+3.  Balena Ether installed on your machine
+
+### 2. Testing in a Virtual Machine
 1. Download the 7z file
 2. Uncompress the file
 3. Burn the ISO file into a flash drive, using Balena Etcher
 4. Boot the ISO
 5. Search the Application "Install MartixOS" and you'll see an installer, called archinstall
 6. configure the system in archinstall and then install the system  
+
+## Changelog
+
+## 1. MartixOS 0.2
+1. Has linux-zen kernel
+2. Has calamares installer
+
+## 2. MartixOS 0.1
+1. Has linux kernel
+2. Has Archinstall installer
+3. Has KDE plasma
+4. Has flatpak
+5. Has Steam
+6. Has os-release
