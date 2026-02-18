@@ -4,6 +4,7 @@
 **License:** GPLv3  
 **Author:** Martin Yanchev  
 **Purpose:** Minimal and flexible Linux distribution, with a focus on Wayland and modern tools.
+
 **ShortName:** MOSAE
 
 ---
