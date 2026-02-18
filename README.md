@@ -1,4 +1,4 @@
-# MartixOS
+# MartixOSArchEdition
 
 **Version:** 0.2 (Beta)  
 **License:** GPLv3  
@@ -9,9 +9,9 @@
 
 ## Project Goal
 
-MartixOS is created with the goal to be:
+MartixOSArchEditition is created with the goal to be:
 
-- It's minimal and it comes with KDE Plasma and Steam
+- For Power Users
 - Fully Wayland-based for modern display management  
 - Open-source under GPLv3, ensuring freedom and transparency
 - If the version is 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8 or 0.9, it's beta version
