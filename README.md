@@ -1,4 +1,4 @@
-# MartixOS
+# MartixOS Core
 
 **Version:** 0.2 (Beta)  
 **License:** GPLv3  
